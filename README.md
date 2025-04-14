@@ -1,6 +1,6 @@
 # 🤖 Chatbot Q&A
 
-A smart, Streamlit-based Question & Answer chatbot is a RAG based application designed for eCommerce FAQs, powered by LLMs, embeddings, and vector search!
+It is a local Retrieval-Augmented Generation (RAG) chatbot built with LangChain, FAISS, and Streamlit. It uses an eCommerce FAQ dataset to answer user queries by retrieving semantically similar Q&A pairs and generating human-like responses using a locally hosted Qwen2 LLM via Ollama. Embeddings are created using the hkunlp/instructor-large model from HuggingFace. The app includes a built-in UI for interacting with the chatbot and regenerating the knowledge base on demand.
 
 ![Chatbot UI Screenshot](screenshot.png)
 
