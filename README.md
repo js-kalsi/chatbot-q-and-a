@@ -1,6 +1,6 @@
 # 🤖 Chatbot Q&A
 
-A smart, Streamlit-based Question & Answer chatbot designed for eCommerce FAQs, powered by LLMs, embeddings, and vector search!
+A smart, Streamlit-based Question & Answer chatbot is a RAG based application designed for eCommerce FAQs, powered by LLMs, embeddings, and vector search!
 
 ![Chatbot UI Screenshot](screenshot.png)
 
